@@ -1,2 +1,2 @@
-# geeks-solution
+# geeks-solutions
 geeks for geeks dsa problem solution...
